@@ -1,0 +1,16 @@
+header {
+ /* need to figure out 2 images or set size*/ 
+background-image: url(images/bannerBackground.png); background-repeat: repeat-x;
+  max-height: 20%;
+  
+}
+.headerimage {
+  max-height: 100%; 
+  height: auto;
+ display: block;
+ margin-left: auto;
+}
+body {
+ 
+  background-color: palegoldenrod;
+}
